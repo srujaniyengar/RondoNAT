@@ -1,3 +1,0 @@
-[submodule "esp32_nat_router"]
-	path = esp32_nat_router
-	url = https://github.com/martin-ger/esp32_nat_router.git
